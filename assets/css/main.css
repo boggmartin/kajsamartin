@@ -4012,7 +4012,7 @@ input, select, textarea {
 	}
 
 	body.landing #footer {
-		background-color: rgba(29, 36, 42, 0.8);
+		background-color: rgba(29, 36, 42, 0.5);
 	}
 
 	body.is-mobile.landing #page-wrapper {
