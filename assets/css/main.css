@@ -2855,6 +2855,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-color: #A8B3A8;
+			opacity: 0.9;
 			color: #ffffff;
 		}
 
@@ -4008,11 +4009,10 @@ input, select, textarea {
 		background-repeat: no-repeat;
 		background-size: cover;
 		padding-top: 0;
-		opacity: 0.9;
 	}
 
 	body.landing #footer {
-		background-color: rgba(29, 36, 42, 0.5);
+		background-color: rgba(29, 36, 42, 0.65);
 	}
 
 	body.is-mobile.landing #page-wrapper {
