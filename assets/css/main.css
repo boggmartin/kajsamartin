@@ -2855,15 +2855,15 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-color: #BDC9BD;
-			color: #ffffff;
+			color: #000000;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style1 hr {
@@ -2879,7 +2879,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header p {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style1 header.major h2, .wrapper.style1 header.major h3, .wrapper.style1 header.major h4, .wrapper.style1 header.major h5, .wrapper.style1 header.major h6 {
@@ -2887,11 +2887,11 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header.major p {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style1 label {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style1 input[type="text"],
@@ -2907,7 +2907,7 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 select option {
-					color: #ffffff;
+					color: #000000;
 					background: #21b2a6;
 				}
 
@@ -2923,7 +2923,7 @@ input, select, textarea {
 
 			.wrapper.style1 input[type="checkbox"]:checked + label:before,
 			.wrapper.style1 input[type="radio"]:checked + label:before {
-				background: #ffffff;
+				background: #000000;
 				color: #21b2a6;
 			}
 
@@ -2964,7 +2964,7 @@ input, select, textarea {
 				}
 
 			.wrapper.style1 table th {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style1 table thead {
@@ -2985,7 +2985,7 @@ input, select, textarea {
 			.wrapper.style1 button,
 			.wrapper.style1 .button {
 				box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.125);
-				color: #ffffff;
+				color: #000000;
 			}
 
 				.wrapper.style1 input[type="submit"]:hover,
