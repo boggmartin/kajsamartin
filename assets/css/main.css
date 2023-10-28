@@ -2855,7 +2855,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-color: #A8B3A8;
-			opacity: 0.9;
+			opacity: 0.95;
 			color: #ffffff;
 		}
 
@@ -3015,6 +3015,7 @@ input, select, textarea {
 
 		.wrapper.style2 {
 			background-color: #2e3842;
+			opacity: 0.90;
 		}
 
 		.wrapper.style3 {
