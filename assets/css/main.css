@@ -154,7 +154,7 @@ input, select, textarea {
 
 	strong, b {
 		color: #fff;
-		font-weight: 800;
+		font-weight: 600;
 	}
 
 	em, i {
@@ -165,11 +165,18 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3  {
 		color: #fff;
 		font-weight: 800;
 		letter-spacing: 0.225em;
 		line-height: 1em;
+		margin: 0 0 1em 0;
+		text-transform: uppercase;
+		
+	h4, h5, h6 {
+		color: #fff;
+		font-weight: 800;
+		letter-spacing: 0.225em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
 	}
