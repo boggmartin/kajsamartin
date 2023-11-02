@@ -209,13 +209,8 @@ input, select, textarea {
 
 	h4 {
 		font-size: 0.8em;
-		line-height: 0.5em;
-		a {
-			border-bottom: none;
-		}
-		a:hover {
-			border-bottom: dotted 1px;
-		}
+		line-height: 0.2em;
+
 	}
 
 	h5 {
